@@ -1,0 +1,30 @@
+.d-block{
+    border-radius: 10%;
+
+}
+
+.container{
+    background-color: #22A39F;
+    color:#F3EFE0 ;
+}
+
+.image1{
+   
+    border-radius: 50%;
+}
+
+.first-card{
+    color: #222222;
+}
+.container-4{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-left: 50px;
+    margin-top:50px ;
+}
+
+
+
+
